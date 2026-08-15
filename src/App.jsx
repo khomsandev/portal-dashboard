@@ -49,9 +49,9 @@ const portals = [
     iconColor: "#FFFFFF",
   },
     {
-    name: "DEV Case System APPSUP",
-    url: "http://172.20.20.28:1150",
-    description: "เว็บรวบรวมเคสสำหรับ Application Support",
+    name: "Dev message template",
+    url: "https://dev-message-template.web.app",
+    description: "เว็บ template สำหรับส่งข้อความแจ้ง DEV",
     icon: Mail,
     bgColor: "#6F61C1",
     iconColor: "#FFFFFF",

@@ -81,6 +81,14 @@ const portals = [
     iconColor: "#028000",
   },
   {
+    name: "Technical Support OT Management",
+    url: "http://172.20.20.32:8088/login",
+    description: "ระบบจัดการงานเพื่อขออนุมัติ OT สำหรับทีม Technical Support",
+    icon: HandCoins,
+    bgColor: "#DBEAFE",
+    iconColor: "#2563EB",
+  },
+  {
     name: "Operation Central Service",
     url: "http://172.17.60.88:8000/web-operation-central",
     description: "Operation Central Service",

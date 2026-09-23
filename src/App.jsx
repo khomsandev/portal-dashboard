@@ -73,6 +73,14 @@ const portals = [
     iconColor: "#D97706",
   },
   {
+    name: "ระบบจัดการงาน IT Service Management",
+    url: "http://172.20.20.28:3000/",
+    description: "IT Service Management",
+    icon: Bot,
+    bgColor: "#b5f9b4",
+    iconColor: "#028000",
+  },
+  {
     name: "Operation Central Service",
     url: "http://172.17.60.88:8000/web-operation-central",
     description: "Operation Central Service",

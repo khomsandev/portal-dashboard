@@ -1,0 +1,16 @@
+services:
+  portal-dashboard:
+    build: .
+    container_name: portal-dashboard
+
+    ports:
+      - "5673:5673"
+
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+
+    restart: unless-stopped
